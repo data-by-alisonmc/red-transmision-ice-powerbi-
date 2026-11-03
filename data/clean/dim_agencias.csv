@@ -1,0 +1,73 @@
+﻿id_agencia,direccion,telefono,fax,horario,latitud,longitud,sabado
+1,Contiguo a la Fiscalia.,26690123,26690308,Lunes a Viernes de 7:30 a 17:00 y Sábado de 8:00 a 12:00,10.4295,-85.09286,True
+2,Costado N de la Iglesia Catolica.,26711123,26711230,Lunes a Viernes de 7:30 a 17:00,10.527347,-85.254773,False
+3,25 m S de la Iglesia Catolica.,26731123,26731124,Lunes a Viernes de 7:30 a 17:00,10.708191,-85.225421,False
+4,50 m N de la parada de buses.,24640323,24640123,Lunes a Viernes de 7:30 a 17:00,10.672037,-84.819735,False
+5,325 m O de la oficinas de comando.,24711067,24711072,Lunes a Viernes de 7:30 a 17:00,11.030504,-84.715241,False
+6,Frente a la terminal Transnorte de Upala.,24700123,24700030,Lunes a Viernes de 7:30 a 17:00,10.89948,-85.014143,False
+7,50 m N de la estacion de bomberos.,26620123,26620081,Lunes a Viernes de 7:30 a 17:00,10.282127,-84.958496,False
+8,50 m N del colegio profesional.,26455128,26455097,Lunes a Viernes de 7:30 a 17:00,10.319779,-84.823289,False
+9,200 m N de Maxi Pali.,26901009,26662223,Lunes a Viernes de 7:30 a 17:00 y Sábado de 8:00 a 12:00,10.632948,-85.442949,True
+10,25 m N de la Iglesia Catolica.,26799123,26799103,Lunes a Viernes de 7:30 a 17:00,11.071789,-85.632932,False
+11,Frente hotel Mirador.,26560980,26560976,Lunes a Viernes de 7:30 a 17:00,9.883169,-85.525777,False
+12,1 km E del restaurante La Casona.,26820166,26820165,Lunes a Viernes de 7:30 a 17:00,9.967974,-85.648031,False
+13,25 m O de la municipalidad.,26579004,26579001,Lunes a Viernes de 7:30 a 17:00,9.994885,-85.250972,False
+14,Frente a plaza de deporte San Francisco de Coyote.,26551166,26551242,Lunes a Viernes de 7:30 a 17:00,9.807002,-85.244893,False
+15,Frente a Megasuper y contiguo a central telefonica.,26420123,26420208,Lunes a Viernes de 7:30 a 17:00,9.686951,-85.103847,False
+16,Frente al almacen Gollo de Tilaran centro.,26955623,26955323,Lunes a Viernes de 7:30 a 17:00,10.472767,-84.966344,False
+17,200 m O del Banco Nacional.,26944390,26940410,Lunes a Viernes de 7:30 a 17:00,10.544651,-84.898417,False
+18,100 m O de la estacion Delta de Puntarenas centro.,26610123,26612424,Lunes a Viernes de 7:30 a 17:00 y Sábado de 8:00 a 12:00,9.977778,-84.830159,True
+19,Costado este de la plaza La Rioja de El Roble.,26630123,26630875,Lunes a Viernes de 7:30 a 17:00 y Sábado de 8:00 a 12:00,9.97783,-84.733585,True
+20,Costado Norte del Banco Nacional.,26399123,26399075,Lunes a Viernes de 7:30 a 17:00,10.092994,-84.730985,False
+21,50 N de la entrada a Chomes.,26388123,26388246,Lunes a Viernes de 7:30 a 17:00,10.112426,-84.891091,False
+22,200 E de la plaza de deportes de Esparza.,26355123,26355044,Lunes a Viernes de 7:30 a 17:00 y Sábado de 8:00 a 12:00,9.99245,-84.664194,True
+23,100 S de la municipalidad de Orotina.,24288123,24288686,Lunes a Viernes de 7:30 a 17:00 y Sábado de 8:00 a 12:00,9.91063,-84.524073,True
+24,Contiguo a la Farmacia Manantial de Jaco centro.,26433123,26433164,Lunes a Viernes de 7:30 a 17:00 y Sábado de 8:00 a 12:00,9.613538,-84.627831,True
+25,150 m N del Mercado Municipal.,27799123,27799122,Lunes a Viernes de 7:30 a 17:00,9.520657,-84.330463,False
+26,Costado norte del Banco Nacional.,27770123,27770567,Lunes a Viernes de 7:30 a 17:00 y Sábado de 8:00 a 12:00,9.431444,-84.164056,True
+27,"Costado sur del Banco Popular, en San Pedro de Poas.",20029003,24486042,Lunes a Viernes de 7:30 a 17:00,10.074917,-84.245652,False
+28,"200 m N del restaurante La Princesa Marina, Barrio San Jose de Alajueala.",24334410,24334375,Lunes a Viernes de 7:30 a 17:00,10.014007,-84.24262,False
+29,"Contiguo a Salsas Alfaro, San Antonio del Tejar.",20009035,24435011,Lunes a Viernes de 7:30 a 17:00,9.996032,-84.224265,False
+30,50 m O del correo de Alajuela.,20029022,24415786,Lunes a Viernes de 7:30 a 17:00,10.018772,-84.213727,False
+31,"25 m O de la sucursal de la Cruz Roja, Puriscal.",20029036,24166655,Lunes a Viernes de 7:30 a 17:00 y Sábado de 8:00 a 12:00,9.847769,-84.314642,True
+32,60 m O de la pizzeria La Estacion.,24876120,24875780,Lunes a Viernes de 7:30 a 17:00,9.961384,-84.31858,False
+33,"De los Tribunales de Justicia, 250 m N saliendo a la carretera principal.",24465123,24465433,Lunes a Viernes de 7:30 a 17:00,9.980639,-84.379321,False
+34,Costado norte de la Iglesia Catolica de Grecia centro.,24445123,24946042,Lunes a Viernes de 7:30 a 17:00 y Sábado de 8:00 a 12:00,10.073388,-84.31134,True
+35,Frente a Correos de Costa Rica.,24543311,24544414,Lunes a Viernes de 7:30 a 17:00,10.090304,-84.346964,False
+36,150 m O del Banco de Costa Rica.,24510123,24512020,Lunes a Viernes de 7:30 a 17:00,10.097527,-84.380443,False
+37,"200 m E y 15 m S, de la sucursal no.1 del Banco de Costa Rica.",24455123,24456242,Lunes a Viernes de 7:30 a 17:00 y Sábado de 8:00 a 12:00,10.087593,-84.472321,True
+38,"200 m O de la esquina noreste del parque central, contiguo al Banco Popular.",24520123,24520555,Lunes a Viernes de 7:30 a 17:00,10.054405,-84.43493,False
+39,Diagonal de la Iglesia Catolica.,25322123,25322133,Lunes a Viernes de 7:30 a 17:00,9.893721,-83.745977,False
+40,50 m O de los Tribunales de Justicia.,25513351,25517688,Lunes a Viernes de 7:30 a 17:00,9.863556,-83.917999,False
+41,50 m E del Banco de Costa Rica.,25560123,25561238,Lunes a Viernes de 7:30 a 17:00 y Sábado de 8:00 a 12:00,9.903314,-83.684637,True
+42,Contiguo al INS.,27107123,27107880,Lunes a Viernes de 7:30 a 17:00,10.215284,-83.782507,False
+43,Contiguo a Agro Insumos.,27166123,27166283,Lunes a Viernes de 7:30 a 17:00,10.211703,-83.680991,False
+44,"Finca 6, del almacen El Colono 75 m S.",27644123,27643188,Lunes a Viernes de 7:30 a 17:00,10.319136,-83.888276,False
+45,"La Suerte, contiguo al salon comunal.",27625223,27625236,Lunes a Viernes de 7:30 a 17:00,10.392149,-83.801838,False
+46,Frente a la Sucursal de la CCSS en Cariari.,27677123,27678272,Lunes a Viernes de 7:30 a 17:00,10.361021,-83.735281,False
+47,Contiguo a la delegacion de la Fuerza Publica.,27098123,27098194,Lunes a Viernes de 7:30 a 17:00,10.541979,-83.503657,False
+48,,,,Sin dato,10.771999,-83.587293,False
+49,Costado N de la Iglesia Catolica Centro.,27688123,27688376,Lunes a Viernes de 7:30 a 17:00,10.097304,-83.506966,False
+50,"100 m S de la CCSS, frente al aula de preescolar.",27186123,27186150,Lunes a Viernes de 7:30 a 17:00,10.08349,-83.344109,False
+51,"Bribri, 400 m SO de la Cruz Roja.",27510131,27510102,Lunes a Viernes de 7:30 a 17:00,9.627216,-82.853785,False
+52,"Contiguo al comando Finca 5, Valle de la Estrella.",27590123,27590140,Lunes a Viernes de 7:30 a 17:00,9.729569,-82.994304,False
+53,"Frente al hospital Tony Facio, Limon.",27980123,27583262,Lunes a Viernes de 7:30 a 17:00,9.999259,-83.026,False
+54,100 m S y 125 O de la clinica de la CCSS.,20029009,NO HAY,Lunes a Viernes de 7:30 a 17:00,9.148235,-83.343591,False
+55,,,,Sin dato,9.373923,-83.704853,False
+56,50 m S de la escuela de Dominical.,20029025,27870231,Lunes a Viernes de 7:30 a 17:00,9.25303,-83.864095,False
+57,contiguo a restaurante haway.,20029005,27311800,Lunes a Viernes de 7:30 a 17:00,9.279307,-83.588796,False
+58,,,,Sin dato,9.372259,-83.704282,False
+59,,,,Sin dato,9.341504,-83.673512,False
+60,75 m SE de la escuela de Pejibaye.,20029001,27360120,Lunes a Viernes de 7:30 a 17:00,9.159543,-83.57411,False
+61,50 m S de la agencia de Tropigas.,20029008,27712001,Lunes a Viernes de 7:30 a 17:00,9.376939,-83.704293,False
+62,Plantel ICE de Los Chiles de Pérez Zeledón.,20029024,27721601,Lunes a Viernes de 7:30 a 17:00,9.360611,-83.680621,False
+63,"Contiguo a la Librería La Castellana, Rio Claro.",27899123,27899366,Lunes a Viernes de 7:30 a 17:00,8.676266,-83.063392,False
+64,"Barrio Bella Vista, 100 m SE del estadio.",27750123,27750301,Lunes a Viernes de 7:30 a 17:00,8.637462,-83.165277,False
+65,"Frente al hotel Andrea, Ciudad Neily.",27833123,27833366,Lunes a Viernes de 7:30 a 17:00 y Sábado de 8:00 a 12:00,8.648726,-82.942266,True
+66,50 m S de Wong Chang.,27320123,27320124,Lunes a Viernes de 7:30 a 17:00,8.53171,-82.838548,False
+67,Frente a las oficinas regionales del INDER.,27800123,27800645,Lunes a Viernes de 7:30 a 17:00,8.441263,-82.905993,False
+68,Costado este del parque de Agua Buena.,27340123,27340830,Lunes a Viernes de 7:30 a 17:00,8.7463,-82.942165,False
+69,Frente al parque central.,27733123,27733301,Lunes a Viernes de 7:30 a 17:00,8.819749,-82.971595,False
+70,500 m S del hospital.,27867123,27864275,Lunes a Viernes de 7:30 a 17:00,8.984282,-83.543312,False
+71,"Contiguo al Banco Nacional de Costa Rica, Palmar Norte.",27866123,27866332,Lunes a Viernes de 7:30 a 17:00,8.962396,-83.45663,False
+72,"Contiguo a la Cruz Roja, Puerto Jimenez.",27355123,27355105,Lunes a Viernes de 7:30 a 17:00,8.538534,-83.30732,False

@@ -1,0 +1,103 @@
+﻿id_linea,circuito,voltaje_kv,origen,id_origen,destino,id_destino,n_circuito,tipo,extremos_enlazados,longitud_km,n_tramos,longitud_km_fuente_STLe
+1,Liberia-Papagayo,230,Liberia,36,Papagayo,46,,Nacional,2,23.934,2,1.615
+2,Canas-Liberia,230,Cañas,11,Liberia,36,,Nacional,2,42.096,1,1.631
+3,Liberia-Frontera Nicaragua,230,Liberia,36,Frontera Nicaragua,,,Nacional,1,72.09,4,67.129
+4,Papagayo-Nuevo Colon,230,Papagayo,46,Nuevo Colon,43,,Nacional,2,28.536,1,5.009
+5,Pailas-Liberia,230,Pailas,44,Liberia,36,,Nacional,2,20.916,1,10.897
+6,Mogote-Pailas,230,Mogote,40,Pailas,44,,Nacional,2,17.821,4,10.349
+7,Canas-Colorado,138,Cañas,11,Colorado,15,,Nacional,2,23.865,1,23.765
+8,Colorado-Santa Rita,138,Colorado,15,Santa Rita,60,,Nacional,2,32.573,22,16.503
+9,Angostura-Concavas,138,Angostura,2,Concavas,16,,Nacional,2,32.682,1,30.099
+10,Concavas-Aguas Calientes,138,Concavas,16,Aguas Calientes,,,Nacional,1,1.356,1,1.354
+11,Concavas-Alajuelita,138,Concavas,16,Alajuelita,1,,Nacional,2,33.838,2,15.943
+12,Rio Macho-Concavas,138,Rio Macho,54,Concavas,16,,Nacional,2,8.629,2,8.602
+13,Desamparados-Escazu,138,Desamparados,20,Escazú,23,,Nacional,2,16.694,1,1.715
+14,Rio Macho-Desamparados,138,Rio Macho,54,Desamparados,20,,Nacional,2,33.727,3,1.712
+15,Alajuelita-La Caja,138,Alajuelita,1,La Caja,33,,Nacional,2,11.903,2,1.962
+16,Angostura-Cachi,138,Angostura,2,Cachi,8,,Nacional,2,14.84,1,9.618
+17,Turrialba-Angostura,138,Turrialba,68,Angostura,2,,Nacional,2,5.16,1,5.13
+18,Cachi-Turrialba,138,Cachi,8,Turrialba,68,,Nacional,2,9.651,1,9.624
+19,Miravalles-Mogote,230,Miravalles,39,Mogote,40,,Nacional,2,9.021,4,8.984
+20,Corobici-Canas,230,Corobici,17,Cañas,11,,Nacional,2,7.68,1,6.361
+21,Arenal-Corobici,230,Arenal,4,Corobici,17,,Nacional,2,9.951,1,1.29
+22,Sandillal-Corobici,230,Sandillal,59,Corobici,17,,Nacional,2,3.049,1,3.05
+23,Canas-Filadelfia,138,Cañas,11,Filadelfia,24,,Nacional,2,43.144,2,36.697
+24,Filadelfia-Guayabal,138,Filadelfia,24,Guayabal,28,,Nacional,2,28.147,1,21.666
+25,Colorado-Cemex,138,Colorado,15,Cemex,,,Nacional,1,3.325,1,3.313
+26,Garabito-Canas,230,Garabito,25,Cañas,11,,Nacional,2,60.247,3,53.005
+27,Arenal-Garabito,230,Arenal,4,Garabito,25,,Nacional,2,57.166,1,2.694
+28,Garabito-Coyol,230,Garabito,25,Coyol,19,,Nacional,2,63.813,2,2.656
+29,Barranca-Garabito,230,Barranca,6,Garabito,25,,Nacional,2,7.82,1,7.8
+30,Arenal-Lindora,230,Arenal,4,Lindora,37,,Nacional,2,120.546,1,54.268
+31,Miravalles-Arenal,230,Miravalles,39,Arenal,4,,Nacional,2,35.844,1,35.766
+32,Tejona-Penas Blancas,230,Tejona,64,Peñas Blancas,48,,Nacional,2,58.706,1,45.579
+33,Arenal-Tejona,230,Arenal,4,Tejona,64,,Nacional,2,6.047,1,6.02
+34,Penas Blancas-Ciudad Quesada,230,Peñas Blancas,48,Ciudad Quesada,12,,Nacional,2,17.634,1,0.473
+35,Barranca-La Garita,230,Barranca,6,La Garita,34,,Nacional,2,40.867,3,6.216
+36,Barranca-Juanilama,138,Barranca,6,Juanilama,32,,Nacional,2,6.142,1,6.141
+37,Tarbaca-Parrita,230,Tarbaca,62,Parrita,47,,Nacional,2,42.909,1,29.081
+38,Parrita-Pirris,230,Parrita,47,Pirris,49,,Nacional,2,9.564,3,9.524
+39,Lindora-La Caja,230,Lindora,37,La Caja,33,,Nacional,2,5.765,1,0.727
+40,Escazu-La Caja,138,Escazú,23,La Caja,33,,Nacional,2,3.94,1,3.699
+41,Rio Claro-Progreso,230,Rio Claro,53,Progreso,,,Nacional,1,37.016,1,16.166
+42,Palmar-Rio Claro,230,Palmar,45,Rio Claro,53,,Nacional,2,49.459,1,49.118
+43,San Isidro-Palmar,230,San Isidro,57,Palmar,45,,Nacional,2,55.848,1,0.285
+44,Rio Macho-San Isidro,230,Rio Macho,54,San Isidro,57,,Nacional,2,57.397,1,57.198
+45,San Miguel-El Este,230,San Miguel,58,El Este,22,,Nacional,2,20.134,1,14.239
+46,Coronado-El Este,230,Coronado,18,El Este,22,,Nacional,2,14.288,1,14.247
+47,Rio Macho-Torito,230,Rio Macho,54,Torito,65,,Nacional,2,34.571,3,14.7
+48,Rio Macho-Cachi,138,Rio Macho,54,Cachi,8,,Nacional,2,14.511,3,14.017
+49,Trapiche-Moin,230,Trapiche,67,Moin,41,,Nacional,2,52.166,1,51.327
+50,Moin-Cahuita,230,Moin,41,Cahuita,9,,Nacional,2,43.165,4,43.065
+51,General-Leesville,230,General,26,Leesville,35,,Nacional,2,21.077,1,1.663
+52,Trapiche-Leesville,230,Trapiche,67,Leesville,35,,Nacional,2,32.284,1,32.246
+53,Cachi-Sabanilla,138,Cachi,8,Sabanilla,56,,Nacional,2,35.187,1,26.748
+54,Cachi-San Miguel,138,Cachi,8,San Miguel,58,,Nacional,2,36.203,2,26.73
+55,Sabanilla-San Miguel,138,Sabanilla,56,San Miguel,58,,Nacional,2,7.209,1,3.082
+56,San Miguel-Colima2,138,San Miguel,58,Colima,14,2,Nacional,2,5.52,1,5.415
+57,San Miguel-Colima1,138,San Miguel,58,Colima,14,1,Nacional,2,5.55,1,5.427
+58,La Caja-Colima,138,La Caja,33,Colima,14,,Nacional,2,8.71,1,3.809
+59,Heredia-Colima,138,Heredia,29,Colima,14,,Nacional,2,6.751,1,3.817
+60,La Caja-Heredia,138,La Caja,33,Heredia,29,,Nacional,2,8.001,1,2.919
+61,La Caja-Belen2,230,La Caja,33,Belen,7,2,Nacional,2,3.672,1,3.655
+62,La Caja-Ribera,230,La Caja,33,Ribera,52,,Nacional,2,3.244,1,3.667
+63,Garita-La Caja,138,La Garita,34,La Caja,33,,Nacional,2,22.163,2,9.356
+64,El Coco-La Caja,138,El Coco,21,La Caja,33,,Nacional,2,16.003,1,9.345
+65,Garita-El Coco,138,La Garita,34,El Coco,21,,Nacional,2,19.303,1,12.638
+66,Poas-La Garita,138,Poas,50,La Garita,34,,Nacional,2,17.161,1,11.367
+67,Poas-Naranjo,138,Poas,50,Naranjo,42,,Nacional,2,15.328,1,6.397
+68,Garita-Lindora,230,La Garita,34,Lindora,37,,Nacional,2,20.493,4,1.232
+69,San Miguel-Coronado,230,San Miguel,58,Coronado,18,,Nacional,2,5.813,1,5.506
+70,Alajuelita-Anonos,138,Alajuelita,1,Anonos,3,,Nacional,2,2.396,1,2.387
+71,Tarbaca-Lindora1,230,Tarbaca,62,Lindora,37,1,Nacional,2,33.29,4,33.114
+72,Tarbaca-Lindora2,230,Tarbaca,62,Lindora,37,2,Nacional,2,33.183,1,33.035
+73,Tejar-Pirris,230,Tejar,63,Pirris,49,,Nacional,2,52.15,1,29.209
+74,Toro-Cariblanco,230,Toro,66,Cariblanco,10,,Nacional,2,8.34,1,0.749
+75,Cariblanco-San Miguel,230,Cariblanco,10,San Miguel,58,,Nacional,2,44.384,1,0.744
+76,Ciudad Quesada-Venecia,230,Ciudad Quesada,12,Venecia,70,,Nacional,2,22.508,1,22.508
+77,Venecia-Toro,230,Venecia,70,Toro,66,,Nacional,2,7.247,1,7.215
+78,Tejar-El Este,230,Tejar,63,El Este,22,,Nacional,2,15.016,1,1.327
+79,Lindora-La Caja2,230,Lindora,37,La Caja,33,2,Nacional,2,5.877,1,2.173
+80,San Miguel-Lindora2,230,San Miguel,58,Lindora,37,2,Nacional,2,19.337,2,9.177
+81,San Miguel-Lindora1,230,San Miguel,58,Lindora,37,1,Nacional,2,19.404,1,9.261
+82,Torito-Reventazon,230,Torito,65,Reventazon,51,,Nacional,2,19.259,2,15.096
+83,SIEPAC,230,,,,,,Regional (SIEPAC),0,494.784,1,493.906
+84,Coyol-La Caja,230,Coyol,19,La Caja,33,,Nacional,2,15.652,2,7.376
+85,Cariblanco-General,230,Cariblanco,10,General,26,,Nacional,2,79.285,2,38.613
+86,Penas Blancas-Balsa,230,Peñas Blancas,48,Balsa,5,,Nacional,2,17.679,2,17.61
+87,Naranjo-La Garita,138,Naranjo,42,La Garita,34,,Nacional,2,18.055,1,17.963
+88,Balsa-La Garita,230,Balsa,5,La Garita,34,,Nacional,2,48.485,1,29.708
+89,Santa Rita-Cobano,138,Santa Rita,60,Cobano,13,,Nacional,2,46.867,1,43.453
+90,Reventazon-Trapiche,230,Reventazon,51,Trapiche,67,,Nacional,2,6.688,4,2.391
+91,Reventazon-Rio Blanco,230,Reventazon,51,Río Blanco,55,,Nacional,2,61.033,3,51.312
+92,Rio Blanco-Moin,230,Río Blanco,55,Moin,41,,Nacional,2,3.752,1,2.899
+93,Cahuita-Changuinola,230,Cahuita,9,Changuinola,,,Nacional,1,44.115,1,7.194
+94,Rio Macho-Tejar,230,Rio Macho,54,Tejar,63,,Nacional,2,15.046,2,3.212
+95,Higuito-Tarbaca,230,Higuito,30,Tarbaca,62,,Nacional,2,7.989,1,2.094
+96,El Este-Higuito,230,El Este,22,Higuito,30,,Nacional,2,27.66,2,9.144
+97,Los Angeles-Alajuelita,138,Los Ángeles,38,Alajuelita,1,,Nacional,2,4.196,1,4.19
+98,Sabanilla-Guadalupe,138,Sabanilla,56,Guadalupe,27,,Nacional,2,2.324,1,2.321
+99,Colima-Uruca,138,Colima,14,Uruca,69,,Nacional,2,0.584,1,0.582
+100,Jaco-Parrita (siepac),230,Jacó,31,Parrita,47,,Regional (SIEPAC),2,14.283,1,14.235
+101,Cañas-Jacó (siepac),230,Cañas,11,Jacó,31,,Regional (SIEPAC),2,14.276,1,14.222
+102,Ribera-Belén,230,Ribera,52,Belen,7,,Nacional,2,0.736,1,3.667

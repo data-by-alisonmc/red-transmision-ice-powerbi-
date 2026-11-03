@@ -1,0 +1,19 @@
+{
+  "name": "Red Transmision ICE",
+  "dataColors": ["#1D4E89", "#F2A900", "#8DA9C4", "#0B2545", "#5B6770", "#C8553D", "#3D7EA6", "#E6EAEE"],
+  "background": "#FFFFFF",
+  "foreground": "#0B2545",
+  "tableAccent": "#1D4E89",
+  "good": "#2E7D5B",
+  "neutral": "#F2A900",
+  "bad": "#C8553D",
+  "maximum": "#0B2545",
+  "center": "#8DA9C4",
+  "minimum": "#E6EAEE",
+  "textClasses": {
+    "callout": { "fontSize": 28, "fontFace": "Segoe UI Semibold", "color": "#0B2545" },
+    "title": { "fontSize": 14, "fontFace": "Segoe UI Semibold", "color": "#0B2545" },
+    "header": { "fontSize": 12, "fontFace": "Segoe UI Semibold", "color": "#0B2545" },
+    "label": { "fontSize": 11, "fontFace": "Segoe UI", "color": "#5B6770" }
+  }
+}

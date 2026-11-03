@@ -1,0 +1,17 @@
+# Power BI
+.pbi/
+*.pbix.tmp
+*.pbi-recovery
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Carpeta duplicada del tema
+tema-theme/

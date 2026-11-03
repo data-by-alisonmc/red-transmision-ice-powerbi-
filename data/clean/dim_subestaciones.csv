@@ -1,0 +1,71 @@
+﻿id_subestacion,subestacion,codigo,provincia,canton,distrito,cod_distrito,latitud,longitud
+1,Alajuelita,ALA,San José,Alajuelita,San Felipe,11005,9.912778,-84.110441
+2,Angostura,ANG,Cartago,Turrialba,Pavones,30506,9.916826,-83.640587
+3,Anonos,ANN,San José,San José,Mata Redonda,10108,9.932053,-84.118618
+4,Arenal,ARE,Guanacaste,Tilarán,Santa Rosa,50804,10.47273,-85.000288
+5,Balsa,BAL,Alajuela,San Ramón,Ángeles,20208,10.255511,-84.520989
+6,Barranca,BAR,Puntarenas,Puntarenas,Barranca,60108,9.991761,-84.713845
+7,Belen,BEL,Heredia,Belén,La Ribera,40702,9.99679,-84.172788
+8,Cachi,CAC,Cartago,Jiménez,Tucurrique,30402,9.870258,-83.753938
+9,Cahuita,CAH,Limón,Talamanca,Cahuita,70403,9.731973,-82.87298
+10,Cariblanco,CAR,Alajuela,Alajuela,Sarapiquí,20114,10.286285,-84.196679
+11,Cañas,CAS,Guanacaste,Cañas,Cañas,50601,10.423499,-85.123632
+12,Ciudad Quesada,CQU,Alajuela,San Carlos,Quesada,21001,10.352442,-84.429998
+13,Cobano,COB,Puntarenas,Puntarenas,Cóbano,60111,9.707026,-85.125845
+14,Colima,COL,San José,Tibás,Colima,11305,9.952211,-84.090534
+15,Colorado,COD,Guanacaste,Abangares,Colorado,50704,10.225472,-85.172469
+16,Concavas,COV,Cartago,Cartago,Dulce Nombre,30109,9.838606,-83.887731
+17,Corobici,COR,Guanacaste,Cañas,Cañas,50601,10.471293,-85.077821
+18,Coronado,CON,San José,Vázquez de Coronado,Dulce Nombre,11103,9.992867,-84.016017
+19,Coyol,COY,Alajuela,Alajuela,San José,20202,9.992159,-84.269461
+20,Desamparados,DES,San José,Desamparados,Gravilias,10312,9.889165,-84.054801
+21,El Coco,COC,Alajuela,Alajuela,San Antonio,20104,9.9981,-84.225471
+22,El Este,EST,Cartago,La Unión,San Juan,30303,9.910273,-83.996566
+23,Escazú,ESC,San José,Escazú,San Rafael,10203,9.935509,-84.161531
+24,Filadelfia,FIL,Guanacaste,Carrillo,Filadelfia,50501,10.41737,-85.472425
+25,Garabito,GAB,Puntarenas,Montes de Oro,San Isidro,60403,10.04558,-84.760938
+26,General,GEN,Heredia,Sarapiquí,Horquetas,41003,10.214323,-83.915621
+27,Guadalupe,GUD,San José,Goicoechea,Calle Blancos,10803,9.951036,-84.058255
+28,Guayabal,GUA,Guanacaste,Santa Cruz,Santa Cruz,50301,10.266442,-85.569412
+29,Heredia,HER,Heredia,Heredia,San Francisco,40101,9.98288,-84.120019
+30,Higuito,HIG,San José,Desamparados,San Rafael Arriba,10304,9.867187,-84.067546
+31,Jacó,JAC,San José,Turrubares,Carara,11605,9.594579,-84.53255
+32,Juanilama,JUA,Puntarenas,Esparza,San Juan Grande,60202,9.96836,-84.662534
+33,La Caja,CAJ,San José,San José,Uruca,10107,9.964692,-84.165998
+34,La Garita,GAR,Alajuela,Alajuela,Turrucares,20111,9.928712,-84.359327
+35,Leesville,LEE,Limón,Pococí,Roxana,70204,10.262393,-83.755212
+36,Liberia,LIB,Guanacaste,Liberia,Liberia,50101,10.615355,-85.445744
+37,Lindora,LIN,San José,Santa Ana,Pozos,10903,9.959508,-84.212894
+38,Los Ángeles,LAN,San José,San José,Hospital,10103,9.928684,-84.085473
+39,Miravalles,MIR,Guanacaste,Bagaces,Fortuna,50402,10.701482,-85.193254
+40,Mogote,MOG,Guanacaste,Bagaces,Mogote,50403,10.725716,-85.267612
+41,Moin,MOI,Limón,Limón,Río Blanco,70103,9.994473,-83.102238
+42,Naranjo,NAR,Alajuela,Naranjo,Naranjo,20601,10.087338,-84.371278
+43,Nuevo Colon,NCO,Guanacaste,Carrillo,Sandillal,50303,10.50722,-85.71491
+44,Pailas,PAI,Guanacaste,Liberia,Curubande,50105,10.756093,-85.358956
+45,Palmar,PAL,Puntarenas,Osa,Palmar,60502,8.943485,-83.421956
+46,Papagayo,PAP,Guanacaste,Liberia,Nacascolo,50104,10.663702,-85.605596
+47,Parrita,PAR,Puntarenas,Parrita,Parrita,60901,9.554842,-84.228357
+48,Peñas Blancas,PBL,Alajuela,San Ramón,Peñas Blancas,20213,10.391242,-84.575197
+49,Pirris,PIR,San José,Aserrí,Legua,10605,9.631719,-84.1982
+50,Poas,POA,Alajuela,Poás,Carrillos,20804,10.025875,-84.284134
+51,Reventazon,REV,Limón,Siquirres,Siquirres,70301,10.082754,-83.556889
+52,Ribera,RIB,Heredia,Belén,La Ribera,40702,9.990925,-84.169556
+53,Rio Claro,RCL,Puntarenas,Golfito,Guaycara,60703,8.685278,-83.069479
+54,Rio Macho,RMA,Cartago,Paraíso,Orosi,30203,9.776101,-83.841804
+55,Río Blanco,RBL,Limón,Limón,Río Blanco,70102,10.0124,-83.100191
+56,Sabanilla,SAB,San José,Montes de Oca,Mercedes,11503,9.947561,-84.0426
+57,San Isidro,SIS,San José,Pérez Zeledón,Daniel Flores,11903,9.361722,-83.680532
+58,San Miguel,SMI,Heredia,Santo Domingo,San Miguel,40303,9.980239,-84.055367
+59,Sandillal,SAD,Guanacaste,Cañas,Cañas,50601,10.465278,-85.103278
+60,Santa Rita,SRI,Guanacaste,Nandayure,Santa Rita,50902,10.031654,-85.265994
+61,Tanque,TAN,Guanacaste,Tilarán,Santa Rosa,50801,10.481984,-84.996276
+62,Tarbaca,TAR,San José,Aserrí,Tarbaca,10602,9.829911,-84.117306
+63,Tejar,TER,Cartago,El Guarco,San Isidro,30802,9.823775,-83.951822
+64,Tejona,TEJ,Guanacaste,Tilarán,Santa Rosa,50801,10.524161,-84.989243
+65,Torito,TOT,Cartago,Turrialba,Pavones,30506,9.947938,-83.623097
+66,Toro,TOR,Alajuela,Grecia,Río Cuarto,20306,10.275022,-84.257938
+67,Trapiche,TRA,Limón,Siquirres,Siquirres,70301,10.099035,-83.526673
+68,Turrialba,TUR,Cartago,Turrialba,Turrialba,30501,9.895796,-83.673068
+69,Uruca,URU,San José,San José,Uruca,10107,9.948058,-84.091865
+70,Venecia,VEN,Alajuela,San Carlos,Venecia,21005,10.33531,-84.250104

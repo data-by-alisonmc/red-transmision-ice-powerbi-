@@ -1,0 +1,10 @@
+Provincia vs código de distrito: 0 filas incoherentes
+Subestaciones: diferencia máxima entre Web Mercator y CRTM05 = 0 m (mediana 0 m)
+Provincias: 9 variantes -> 7
+Cantones:   48 variantes -> 46
+Distritos (por código oficial): 63 (por nombre habría 59: los nombres se repiten entre cantones)
+Líneas: 102 | km totales (geometría) = 2,945.7 | con SHAPE_STLe de la fuente = 1,949.1
+Longitud: Shape__Length de la fuente = longitud real x ~1.016 (inflada por Web Mercator); SHAPE_STLe no coincide con la geometría. Se usa la longitud calculada sobre el GeoJSON.
+Extremos enlazados con subestaciones: 0->1, 1->5, 2->96
+Líneas con algún extremo sin subestación (cliente, frontera u otra red): Liberia-Frontera Nicaragua; Concavas-Aguas Calientes; Colorado-Cemex; Rio Claro-Progreso; SIEPAC; Cahuita-Changuinola
+Agencias: 72 | columnas vacías en origen descartadas: Nombre, Imagen | direcciones repetidas: 3 | lat 8.44..11.07, lon -85.65..-82.84
