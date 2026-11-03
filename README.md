@@ -52,17 +52,6 @@ Las cifras reflejan esas fechas, no el estado actual de la red.
 
 Para reproducir: `python limpieza_datos.py --raw data/raw --out data/clean` (requiere `pandas` y `pyproj`).
 
-## Abrir el reporte en tu computadora
-
-El `.pbix` carga los CSV de `data/clean` desde la ruta donde se creó (`C:\Users\nahom\Downloads\red-transmision-ice\data\clean\`). Si clonas el repositorio en otra carpeta, Power BI mostrará un error de origen al actualizar. Para apuntarlo a tu copia:
-
-1. Abre `Reporte_Red_Transmision_ICE.pbix` en Power BI Desktop.
-2. Inicio → **Transformar datos**.
-3. En cada una de las 3 consultas (`dim_subestaciones`, `fact_lineas`, `dim_agencias`) abre **Editor avanzado** y cambia la ruta entre comillas de la línea `Origen = Csv.Document(File.Contents("..."))` por la ruta de tu copia, por ejemplo `C:\tu\carpeta\data\clean\dim_subestaciones.csv`.
-4. **Cerrar y aplicar**.
-
-Las visualizaciones que ya ves en `docs/` y en el PDF no dependen de esto.
-
 ## Limitaciones
 
 - **Extremos sin subestación.** 7 de los 204 extremos de línea (102 × 2) no corresponden a ninguna subestación del conjunto: 96 líneas enlazan sus dos extremos, 5 enlazan uno y la fila SIEPAC no trae ninguno. Por eso la suma de *Líneas conectadas* por subestación es 197 y no 204. Las líneas afectadas son Liberia–Frontera Nicaragua, Cahuita–Changuinola, Concavas–Aguas Calientes, Colorado–Cemex, Rio Claro–Progreso y SIEPAC. Los datos de origen no indican el motivo; por los nombres, parecen ser fronteras, clientes industriales u otras redes. *Líneas conectadas* se usa solo por subestación; para contar líneas se usa la medida *Líneas* (102).
