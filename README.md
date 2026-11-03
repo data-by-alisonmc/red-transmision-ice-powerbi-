@@ -60,6 +60,7 @@ Para reproducir: `python limpieza_datos.py --raw data/raw --out data/clean` (req
 - **Kilómetros de circuito.** Los km son kilómetros de circuito, no de corredor: dos circuitos paralelos suman dos veces.
 - **Líneas fuera del mapa.** El mapa muestra solo subestaciones. El visual de mapa estándar no carga GeoJSON; ArcGIS for Power BI requiere compartir datos con Esri y Azure Maps requiere iniciar sesión en la tienda de visuales, por lo que no se usaron. El trazado está disponible en `data/clean/lineas_transmision.geojson`.
 - **Agencias sin provincia.** Los datos no traen provincia ni cantón; se ubican solo por coordenadas. 4 agencias no tienen dirección ni horario (ids 48, 55, 58 y 59).
+- **Actualización de datos.** El `.pbix` incluye los datos ya cargados. Si quieres actualizarlos en tu equipo, cambia la ruta de los 3 CSV en Transformar datos → Configuración de origen de datos.
 
 ## Estructura del repositorio
 
